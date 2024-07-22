@@ -1,5 +1,5 @@
 --[[
-    AUTHOR: Oalppo
+    AUTHOR: tristin30
     DATE: 01/25/2023
     FILE: game.ReplicatedStorage/Repository/Metatable.lua
 ]]
